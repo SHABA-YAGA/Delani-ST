@@ -18,7 +18,7 @@ h4{
   background-image: url(img/h_img.jpg);
   position: relative;
   height: 720px;
-  width: 100%;
+  width: cover;
   text-align: center;
   color: white;
   padding-top: 140px;
