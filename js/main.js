@@ -6,7 +6,7 @@ $(function(){
     });
 
     $("#col-md-4-2").click(function(){
-        $(".hidden2").slideToggle(1600)
+        $(".hidden2").slideToggle(1600).
         $(".img2").slideToggle(1600)
     });
 
@@ -21,7 +21,7 @@ $(function(){
     });
 
     $(".work3-image").hover(function(){
-        $("#work3-overlay").toggle()
+        $("#work3-overlay").find('span').fadeIn(200);
         $("#work3-img").toggle()
     });
 
