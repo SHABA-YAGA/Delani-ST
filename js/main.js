@@ -55,13 +55,4 @@ $(function(){
         $("#work8-img").toggle()
     });
 
-
-
-
-
-
-
-
-
-
 });
